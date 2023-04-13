@@ -33,6 +33,7 @@ plugins:                                # If you build your site on gh-pages, on
   - jekyll-feed
   - jekyll-sitemap
 exclude:
+  - tmp/
   - README.md
   - Gemfile
   - Gemfile.lock
