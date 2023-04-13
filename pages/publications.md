@@ -1,17 +1,12 @@
 ---
-layout: results
-title: Results of MBDO
+title: Publications on Model-Based DevOps
 #description: The researchers of MBDO
-permalink: /results/
+permalink: /publications/
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 ---
 
 Under construction
 
-# Publications
+# Peer-Reviewed Publications
 
 # Reports
-
-# Software 
-
-# More
