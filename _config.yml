@@ -1,5 +1,5 @@
 # SITE SETTINGS
-title: Model-Based DevOps                        # Title in top navigation bar (navbar) and <head>
+title: MBDO                        # Title in top navigation bar (navbar) and <head>
 author: Andreas Wortmann                    # Used for copyright statement in footer
 #baseurl: "/petridish"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)

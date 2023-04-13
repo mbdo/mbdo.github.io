@@ -1,7 +1,7 @@
 ---
 layout: team
 title: Team
-description: Who we are
+description: The researchers of MBDO
 permalink: /team/
 ---
 
