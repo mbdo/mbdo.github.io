@@ -7,6 +7,6 @@ background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 
 Under construction
 
-# Peer-Reviewed Publications
+## Peer-Reviewed Publications
 
-# Reports
+## Reports and White Papers
