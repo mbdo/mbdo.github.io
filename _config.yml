@@ -34,7 +34,7 @@ plugins:                                # If you build your site on gh-pages, on
   - jekyll-sitemap
 exclude:
   - tmp/
-  - README.md
+  - vendor/
   - Gemfile
   - Gemfile.lock
   - node_modules
