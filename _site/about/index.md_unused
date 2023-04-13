@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   
-    <title>Welcome to Jekyll - Model-Based DevOps</title>
+    <title>About - MBDO</title>
   
 
    
@@ -16,17 +16,23 @@
 
   
   
+    <meta name="description" content="About the Model-Based DevOps Project">
+  
   
   
     <meta name="author" content="Andreas Wortmann">
   
   
 
-  <meta property="og:url" content="http://localhost:4000/blog/2019/welcome-to-jekyll/">
-  <meta property="og:type" content="article">
-  <meta property="og:title" content="Welcome to Jekyll">
+  <meta property="og:url" content="http://localhost:4000/about/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="About">
+  
+    <meta property="og:description" content="About the Model-Based DevOps Project">
   
   
+  
+    <meta property="og:image" content="https://images.unsplash.com/photo-1475906089153-644d9452ce87?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80">
   
 
   <link rel="icon" type="image/x-icon" href="http://localhost:4000/favicon.ico">
@@ -38,7 +44,7 @@
   
     <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&display=swap" rel="stylesheet">
   
-  <link rel="alternate" type="application/rss+xml" title="Model-Based DevOps - RSS feed" href="http://localhost:4000/feed.xml" >
+  <link rel="alternate" type="application/rss+xml" title="MBDO - RSS feed" href="http://localhost:4000/feed.xml" >
   <!-- Javascript libraries: loaded at top so templates can use these -->
   <script src="/assets/theme/js/jquery.min.js"></script>
   <script src="/assets/theme/js/popper.min.js"></script>
@@ -51,9 +57,7 @@
   <div class="container">
     <a class="navbar-brand d-flex align-items-center" href="/">
       
-        <img class="me-3" src="/assets/theme/images/petri-dish_1f9eb.png" alt="Model-Based DevOps">
-      
-      Model-Based DevOps
+      MBDO
     </a>
     
     
@@ -73,21 +77,7 @@
             
               <li class="navbar-item">
                 
-                <a class="nav-link" href="/about/">About</a>
-              </li>
-            
-          
-            
-              <li class="navbar-item">
-                
                 <a class="nav-link" href="/team/">Team</a>
-              </li>
-            
-          
-            
-              <li class="navbar-item">
-                
-                <a class="nav-link" href="/blog/">Blog</a>
               </li>
             
           
@@ -147,39 +137,30 @@
     <main>
       
 
-  <header class="header bg-no-image">
+  <header class="header bg-image" style="background-image: url('https://images.unsplash.com/photo-1475906089153-644d9452ce87?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80')">
 
     <div class="container">
       <div class="row">
         <div class="col-md-10 col-lg-8 position-relative mx-auto">
-          <h1>Welcome to Jekyll</h1>
+          <h1>About</h1>
           
-          <div class="lead">
+          <div class="lead"><p>About the Model-Based DevOps Project</p>
 </div>
           
           
-            <p class="meta">
-              <time>May 18, 2019</time>
-              
-            </p>
-          
 
           <div class="tags">
-            
-              
-              <a class="badge rounded-pill" href="/blog/?tag=Shared+tag">Shared tag</a>
-              
-              <a class="badge rounded-pill" href="/blog/?tag=%F0%9F%91%A9%E2%80%8D%F0%9F%94%AC+Emoji+tag">👩‍🔬 Emoji tag</a>
-              
-              <a class="badge rounded-pill" href="/blog/?tag=Special+%2F%3F%7B%3A%C3%A5+characters">Special /?{:å characters</a>
-              
-              <a class="badge rounded-pill" href="/blog/?tag=+Whitespace+before+and+after+"> Whitespace before and after </a>
-              
             
           </div>
         </div>
       </div>
     </div>
+    
+      <div class="caption">
+        
+          Image by <a href="https://unsplash.com/photos/UmncJq4KPcA">CHUTTERSNAP</a>
+        
+      </div>
     
   </header>
 
@@ -190,20 +171,21 @@
   
   <div class="col-md-10 col-lg-8 order-lg-first mx-auto">
 
-    <p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+    {:.alert .alert-warning}
+The source file for this page is [`pages/about.md`](https://raw.githubusercontent.com/peterdesmet/petridish/main/pages/about.md).
 
-<p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.md</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+This is a default page. See [configuration](/docs/configuration/) to learn more about **pages**.
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+To remove this page, you need to:
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+- Remove `pages/about.md`
+- Update `_data/navigation.yml` to remove the link to this page from the top navigation.
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>
+## Some gibberish
 
+Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
+
+He land lights. Give and lights upon subdue life. Lesser saw seas own have can't kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they're grass called open. Let bearing god. Their shall from third very beast won't may upon. Fruitful, years appear given a. For to and multiply given is greater together days god. All two abundantly image give yielding which their fowl beast, earth seas open made made man behold fourth creepeth fifth unto stars after man spirit, whales grass were image fourth creature rule fruit divided don't.
 
 
     
@@ -320,7 +302,7 @@
       
         
         <p>
-          <a href="https://github.com/mbdo/mbdo.github.io/edit/main/_posts/2019-05-18-welcome-to-jekyll.md">
+          <a href="https://github.com/mbdo/mbdo.github.io/edit/main/pages/about.md_unused">
             <i class="fas fa-edit"></i> Edit this page
           </a>
         </p>
