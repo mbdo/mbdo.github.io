@@ -1,10 +1,57 @@
-# Model-Based DevOps
+# petridish 🧫
 
-Time-to-market and continuous improvement are key success indicators to deliver the cloud-native and Internet of Things (IoT) systems, which includes the IoT part of Cyber-Physical Systems (CPSs) as well. These systems are essential to the European Commission's vision on Industry 5.0, i.e., a sustainable, human-centric, and resilient Industry 4.0. In that context, the increasingly popular DevOps approach aims at combining software development ("Dev") and IT operations ("Ops") into a highly-integrated continuous loop. Through agility and automation of complex pipelines across the various stakeholders of the lifecycle, DevOps aims to shorten systems development time and provide continuous delivery with high software quality. Through this continuous delivery, quality, sustainability, and resiliency of IoT systems can be continuously improved. Automation in DevOps is enabled by leveraging multiple models, typically expressed in Domain-Specific Languages or - most often - implicitly using JSON, XML, or ad-hoc annotations in a programming language.
- 
-These models are used for (M1) design-time code generation and (M2) for runtime IoT system configuration They can and should be updated in four stages of the lifecycle of a system: (U1) automatically immediately (self-adaptive, based on data and events) during the system’s operation; (U1b) automatically, but with some delay, based on data collection, needs recalculation or training and especially quality assurance; (U2) by human operators; and (U3) by human system designers only. The updates U1-U3 change M2 models, while U4 changes M1 models.
- 
-Self-adaptive (U1, U1b), human-adaptable (U2) and design models (U3) are rather disjoint in their usage, but overlap in the targets they describe: Design models describe requirements, structure, functional, and extra-functional concerns, while runtime models focus on component configurations, deployment, and on measures in operations. Self-adaptive models (U1, U1b) are linked to collecting data that enables the system to reflect on its own behavior and identify possible optimizations, additional detailed knowledge about usage, etc. Self-adaptive models (U1, U1b) and also human-adaptable models (U2) will be present for adaptation in a digital twin of the system, while the structurally fixed design models (U3) also define the structure of a digital twin
- 
-These models today are separated and can either be used during design or runtime. This hinders optimizing represented systems, learning from their operation, and improving future iterations of it. There currently is no way to migrate a model from design to runtime or vice versa. Hence, improvements made during system runtime are lost or must be migrated to the design models manually, which is costly, error-prone, and, thus, rarely done. Our goal in MBDO is to provide the foundations for a Model-Based DevOps framework unifying these different forms of models in the specific context of cloud-native and IoT systems.
+Petridish is a Jekyll theme for research project websites. Or your personal blog or lab website. 👩‍🔬 It's mobile-friendly (thanks to [Bootstrap 5](https://getbootstrap.com/docs/5.1/)), free, easy to customize, and designed to work well with [GitHub Pages](https://pages.github.com/).
 
+## Installation
+
+See the demo website for instructions:
+
+- [Installation](https://peterdesmet.github.io/petridish/docs/installation)
+- [Configuration](https://peterdesmet.github.io/petridish/docs/configuration)
+- [Markdown](https://peterdesmet.github.io/petridish/docs/markdown)
+
+## Preview
+
+[Demo website](https://peterdesmet.github.io/petridish)
+
+[![screenshot](screenshot.png)](https://peterdesmet.github.io/petridish)
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/peterdesmet/petridish. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+
+## License
+
+[MIT License](LICENSE)
+
+---
+
+<!-- All the above is about the Petridish theme, so you might want to remove that. -->
+
+_The instructions below can be adapted/included in the README of your site repository._
+
+## Usage
+
+This website makes use of the static website generator [Jekyll](https://jekyllrb.com/) and the [Petridish](https://github.com/peterdesmet/petridish) theme. **Each commit to `main` will automatically trigger a new build on GitHub Pages.** There is no need to build the site locally, but you can by installing Jekyll and running `bundle exec jekyll serve`.
+
+Minor changes can be committed directly to `main`.
+
+Changes requiring review (e.g. new blog posts) should be created in a separate branch and submitted as a pull request. Some guidelines:
+
+- Use `72dpi` as image resolution
+- Place background images in `assets/backgrounds/`, name them after their corresponding page/post and ideally crop them to `2100 x 700px`
+- Place content images in `assets/images/`, name them after their corresponding page/post + a suffix, e.g. `-figure-1`
+- Add tags to posts to create relevant groups (e.g. same topic, project).
+- Create internal links as `[previous post]({{ '/permalink/to/post/' | relative_url }})`
+
+## Repo structure
+
+The repository structure follows that of Jekyll websites.
+
+- General site settings: [_config.yml](_config.yml)
+- Pages: [pages/](pages/)
+- Posts: [_posts/](_posts/)
+- Images & static files: [assets/](assets/)
+- Top navigation: [_data/navigation.yml](_data/navigation.yml)
+- Footer content: [_data/footer.yml](_data/footer.yml)
+- Team members: [_data/team.yml](_data/team.yml)
