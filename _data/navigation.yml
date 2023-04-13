@@ -6,8 +6,8 @@
 #  href: /about/
 - text: Team
   href: /team/
-#- text: Blog
-#  href: /blog/
+- text: Activities
+  href: /blog/
 - text: Documentation
   menu: # Dropdown menu (one level deep only)
   - text: Installation
@@ -19,6 +19,6 @@
   - text: "Dropdown header" # Title for block of menu items
   - text: Page with custom navigation
     href: /docs/custom-navigation/
-- text: GitHub
-  href: https://github.com/peterdesmet/petridish/
+- text: GitLab
+  href: TODO
   new_window: true
