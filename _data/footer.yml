@@ -5,17 +5,18 @@
 columns:
   - description:
     links:
-    - text: Name of project partner 1
-      href: http://example.com
+    - text: RWTH Aachen University
+      href: http://www.rwth-aachen.de 
       new_window: true
-    - text: Prestigious and long name of project partner 2
-      href: http://example.com
+    - text: Stuttgart University
+      href: http://www.uni-stuttgart.de
+      new_window: true
+    - text: Université de Rennes 1
+      href: https://www.univ-rennes.fr/
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      This project is made with ❤ for open source.
-      See [`_data/footer.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/footer.yml)
-      to customize this text.
+      TODO: Funding agency FKZ
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
