@@ -3,6 +3,5 @@ layout: team
 title: Team
 description: The researchers of MBDO
 permalink: /team/
+background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 ---
-
-On this page you can list team members by defining them in [`_data/team.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/main/_data/team.yml).
