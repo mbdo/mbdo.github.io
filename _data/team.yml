@@ -13,16 +13,27 @@
 #   github: github_username
 #   email: name@example.com
 
-- name: Turanga Leela
-  role: Captain
-  description: >
-    Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
-    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
+
+- name: Prof. Benoit Combemale, PhD
+  role: Principal Investigator
+  googlescholar: googlescholar_username
+  twitter: @bcombemale
+  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+
+- name: Prof. Jean-Marc Jézéquel, PhD
+  role: Principal Investigator
+  googlescholar: googlescholar_username
+  twitter: @jmjezquel
+  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
 
 - name: Prof. Dr. Bernhard Rumpe
-  role: PI
+  role: Principal Investigator
   googlescholar: googlescholar_username
-  twitter: twitter_username
+  twitter: @bernhard_rumpe
   image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
-  description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
+
+- name: Prof. Dr. Andreas Wortmann
+  role: Principal Investigator
+  googlescholar: googlescholar_username
+  twitter: @andwor
+  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
