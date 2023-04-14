@@ -9,8 +9,6 @@ Under construction
 
 ## Work Packages
 
-![image tooltip here](/assets/images/work_packages.png)
-
 <img src="/assets/images/work_packages.png" width="75%">
 
 ### WP1. Concepts and Conceptual Framework for Modeling Ops Activities
