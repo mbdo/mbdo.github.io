@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   
-    <title>MBDO</title>
+    <title>Model-Based DevOps</title>
   
 
    
@@ -16,8 +16,6 @@
 
   
   
-    <meta name="description" content="(MBDO)">
-  
   
   
     <meta name="author" content="Andreas Wortmann">
@@ -26,13 +24,11 @@
 
   <meta property="og:url" content="http://localhost:4000/">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Model-Based DevOps">
-  
-    <meta property="og:description" content="(MBDO)">
+  <meta property="og:title" content="The Project">
   
   
   
-    <meta property="og:image" content="http://localhost:4000/assets/theme/images/chuttersnap-146799-unsplash.jpg">
+    <meta property="og:image" content="http://localhost:4000/assets/theme/images/uni_rennes.jpg">
   
 
   <link rel="icon" type="image/x-icon" href="http://localhost:4000/favicon.ico">
@@ -44,7 +40,7 @@
   
     <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&display=swap" rel="stylesheet">
   
-  <link rel="alternate" type="application/rss+xml" title="MBDO - RSS feed" href="http://localhost:4000/feed.xml" >
+  <link rel="alternate" type="application/rss+xml" title="Model-Based DevOps - RSS feed" href="http://localhost:4000/feed.xml" >
   <!-- Javascript libraries: loaded at top so templates can use these -->
   <script src="/assets/theme/js/jquery.min.js"></script>
   <script src="/assets/theme/js/popper.min.js"></script>
@@ -57,7 +53,9 @@
   <div class="container">
     <a class="navbar-brand d-flex align-items-center" href="/">
       
-      MBDO
+        <img class="me-3" src="/assets/theme/images/logo.png" alt="Model-Based DevOps">
+      
+      Model-Based DevOps
     </a>
     
     
@@ -77,30 +75,34 @@
             
               <li class="navbar-item">
                 
+                <a class="nav-link" href="/objectives/">Objectives</a>
+              </li>
+            
+          
+            
+              <li class="navbar-item">
+                
                 <a class="nav-link" href="/team/">Team</a>
+              </li>
+            
+          
+            
+              <li class="navbar-item">
+                
+                <a class="nav-link" href="/blog/">Activities</a>
               </li>
             
           
             
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
-                  Documentation
+                  Results
                 </a>
                 <div class="dropdown-menu dropdown-menu-end">
                   
                     
                       
-                      <a class="dropdown-item" href="/docs/installation/">Installation</a>
-                    
-                  
-                    
-                      
-                      <a class="dropdown-item" href="/docs/configuration/">Configuration</a>
-                    
-                  
-                    
-                      
-                      <a class="dropdown-item" href="/docs/markdown/">Markdown</a>
+                      <a class="dropdown-item" href="/publications/">Publications</a>
                     
                   
                     
@@ -108,12 +110,13 @@
                     
                   
                     
-                      <h6 class="dropdown-header">Dropdown header</h6>
+                      
+                      <a class="dropdown-item" href="/software/">Software</a>
                     
                   
                     
                       
-                      <a class="dropdown-item" href="/docs/custom-navigation/">Page with custom navigation</a>
+                      <a class="dropdown-item" href="/docs/markdown/"></a>
                     
                   
                 </div>
@@ -123,7 +126,7 @@
             
               <li class="navbar-item">
                 
-                <a class="nav-link" href="https://github.com/peterdesmet/petridish/" target="_blank">GitHub</a>
+                <a class="nav-link" href="/TODO" target="_blank">GitLab</a>
               </li>
             
           
@@ -137,14 +140,14 @@
     <main>
       
 
-  <header class="header bg-image" style="background-image: url('/assets/theme/images/chuttersnap-146799-unsplash.jpg')">
+  <header class="header bg-image" style="background-image: url('/assets/theme/images/uni_rennes.jpg')">
 
     <div class="container">
       <div class="row">
         <div class="col-md-10 col-lg-8 position-relative mx-auto">
-          <h1 class="home">Model-Based DevOps</h1>
+          <h1 class="home">The Project</h1>
           
-          <div class="lead"><p>(MBDO)</p>
+          <div class="lead">
 </div>
           
           
@@ -164,27 +167,81 @@
         
 
 <div class="row">
-  <div class="col">
+  <div class="col-md-10 col-lg-8 mx-auto">
     <div class="row">
       <div class="col">
 
-        
+        <h2 id="motivation">Motivation</h2>
+
+<p>Time to market and continuous improvement are becoming key success indicators to deliver the cloud-native and Internet of Things (IoT) systems, which includes the IoT part of Cyber-Physical Systems (CPSs) as well. These systems are essential to the European Commission’s Vision on Industry 5.0 , which is a sustainable, human-centric, and resilient Industry 4.0. In that context, the increasingly popular DevOps approach aims at combining software development (“Dev”) and IT operations (“Ops”) into a highly-integrated continuous loop. Through both agility and automation of complex pipelines across the various stakeholders of the entire lifecycle, DevOps aims to shorten the systems development time and provide continuous delivery with high software quality. Through this continuous delivery, the quality, sustainability, and resiliency of IoT systems can be continuously improved.</p>
+
+<h2 id="models-in-devops">Models in DevOps</h2>
+
+<p>Automation in DevOps is enabled by leveraging multiple models, typically expressed in either explicit Domain-Specific Languages (DSLs) or, most often, implicitly using concrete syntaxes such as JSON, XML, or even just ad hoc annotations in a general-purpose programming language, such as Java. These models are used among others for (M1) code generation during design time [CFJ+16], and (M2) for configuration of the overall IoT system at runtime [BBF09, MBJ+09]. These uses of models yield individual advantages: Design time models and automated code generation lead to better efficiency of the developers, better quality of the results, and usually also to an improvement of agility, because refactoring becomes easier. Using models at runtime has the advantage that IT operations or even the end-user may reconfigure and adapt the models and thus the software part of a system, while it is already in operation. These models at runtime can thus be seen as primitive digital twins [BR16, KMR+20] of the represented IoT systems.</p>
+
+<p>Models can and should be updated in four stages of the lifecycle of a system: (U1) automatically immediately (immediately self-adaptive, based on data and events) during the system’s operation (M2), (U1b) automatically, but with some delay (based on data collections, needs recalculation or training and especially quality assurance, e.g., overnight, therefore is slowly self-adaptive; needs M2), (U2) by human operators (needs M2), (U3) by human designers only (M1).		
+Self-adaptive (U1, U1b), human-adaptable (U2) and design models (U3) are rather disjoint in their usage, but do share a larger overlap in the targets they describe: Design models describe requirements, structure, functional and extra functional concerns, while runtime models focus on component configurations, deployment and on measures in operations. Self-adaptive models (U1, U1b) are closely linked with the collection of data that through appropriate techniques of data science and AI enable the system to reflect on its own behaviour and identify possible optimizations, additional detailed knowledge about usage, etc. Self-adaptive models (U1, U1b) and also human-adaptable models (U2) will be present for adaptation in a digital twin of the system, while the structurally fixed design models (U3) also define the structure of a digital twin. Unfortunately, the models today are strictly separated, and can either be used during design or during runtime. This hinders optimizing represented systems, learning from its operation, and improving future iterations of it. There currently is no way to migrate a model from design to runtime or vice versa. Hence, improvements made during system runtime are lost or must be migrated to the design models manually, which is costly, error-prone, and, thus, rarely done. Even more challenging, we are not able to early model the requirements of the system and only late during development identify a part of a model that goes into a fixed, high-quality design (U3), a second part that is dedicated for adaptation by human operators (U2), and a third part that is self-adaptive (U1). Furthermore, it may be necessary to transfer parts of the underlying model infrastructure between these dimensions (U1) - (U3) on demand and potentially do this even during operation. The interplay of these three dimensions needs a solid and precise semantics and methodical investigation, to effectively accommodate Model-Based DevOps (MBDO) in the context of complex IoT systems, where adaptive services are provided by model-based digital twins.</p>
+
+<h2 id="observations">Observations</h2>
+
+<ul>
+  <li>DevOps is a well-established practice for software intensive systems, and is increasingly considered for IoT. In that context, models play key roles for either or both code/test generation and configuration/deployment of these kinds of systems.</li>
+  <li>Adaptive Systems are typically built with a MAPE-K loop [KC03, HM08] featuring an implicit or explicit model of their runtime configuration (reflective layer), which can be seen as a primitive digital twin.</li>
+  <li>Full blown digital twins are already widely used in several domains (aerospace industry, automotive, building construction, etc.) but not that often for software intensive systems or IoT systems.</li>
+  <li>A digital twin is a model (i.e., an abstraction of some aspect of reality in a given purpose), but its (conceptual) nature and its (technical) form are widely different from the typical software and systems engineering models considered at design time.</li>
+</ul>
+
+<h2 id="goals">Goals</h2>
+
+<p>Our goal in MBDO is to provide the foundations for a Model-Based DevOps framework unifying these different forms of models in the specific context of cloud-native and IoT systems. The proposed Model-Based DevOps framework would then allow engineers to smoothly go back and forth from Dev time to Ops time by leveraging semi-automatically generated digital twins of their systems.</p>
+
 
 
       </div>
 
       
-        <div class="col-lg-4">
-          <a class="twitter-timeline" data-height="500" data-link-color="#007bff" href="https://twitter.com/peterdesmet?ref_src=twsrc%5Etfw">
-            Tweets by peterdesmet
-          </a>
-          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        </div>
-      
     </div>
     
     
       <div class="row cards mt-4">
+        
+          <div class="col-md-6">
+            
+
+<div class="card" data-tags="meetings|">
+  <a href="/blog/2023/kickoff-meeting/">
+    
+      <img class="card-img-top" src="https://images.unsplash.com/photo-1558441440-d4111d18d48f?ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80" alt="Background image">  
+    
+  </a>
+
+  <div class="card-body position-relative">
+    <h5 class="card-title">
+      <a class="stretched-link" href="/blog/2023/kickoff-meeting/">Kickoff Meeting</a>
+    </h5>
+
+    
+      <h6 class="card-subtitle">April 12, 2023</h6>
+    
+
+    <div class="card-text">
+      
+        12-14 April 2023 in Rennes, France.
+
+      
+    </div>
+  </div>
+
+  
+    <div class="card-footer">
+      
+        <a class="badge rounded-pill" href="/blog/?tag=Meetings">Meetings</a>
+      
+    </div>
+  
+</div>
+
+          </div>
         
       </div>
     
@@ -268,12 +325,17 @@
               
                 <li>
                   <i class="fa-li fa fa-chevron-circle-right"></i>
-                  <a href="http://example.com" target="_blank">Name of project partner 1</a>
+                  <a href="http://www.rwth-aachen.de" target="_blank">RWTH Aachen University</a>
                 </li>
               
                 <li>
                   <i class="fa-li fa fa-chevron-circle-right"></i>
-                  <a href="http://example.com" target="_blank">Prestigious and long name of project partner 2</a>
+                  <a href="http://www.uni-stuttgart.de" target="_blank">Stuttgart University</a>
+                </li>
+              
+                <li>
+                  <i class="fa-li fa fa-chevron-circle-right"></i>
+                  <a href="https://www.univ-rennes.fr/" target="_blank">Université de Rennes 1</a>
                 </li>
               
             </ul>
@@ -281,7 +343,7 @@
         </div>
       
         <div class="col-lg">
-          <p>This project is made with ❤ for open source. See <a href="https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/footer.yml"><code class="language-plaintext highlighter-rouge">_data/footer.yml</code></a> to customize this text.</p>
+          <p>TODO: Funding agency FKZ</p>
 
 
           
@@ -297,13 +359,6 @@
         <p>Content on this site is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0 License</a>. | Theme: <a href="https://github.com/peterdesmet/petridish">Petridish</a></p>
 
       
-      
-        
-        <p>
-          <a href="https://github.com/mbdo/mbdo.github.io/edit/main/pages/home.md">
-            <i class="fas fa-edit"></i> Edit this page
-          </a>
-        </p>
       
     </div>
   </div>
