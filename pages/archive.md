@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: Activities of the Consortium
+title: Activities
 #description: Activities of the Consortium
 permalink: /blog/
-background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
+background: /assets/theme/images/uni_rennes.jpg
 ---
 
 <!-- Content here would shop up above your list of posts -->

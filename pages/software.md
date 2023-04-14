@@ -1,5 +1,5 @@
 ---
-title: Software on Model-Based DevOps
+title: Software Results
 #description: The researchers of MBDO
 permalink: /software/
 background: /assets/theme/images/rwth_aachen.jpg

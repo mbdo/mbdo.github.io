@@ -1,5 +1,5 @@
 ---
-title: Publications on Model-Based DevOps
+title: Publication Results
 #description: The researchers of MBDO
 permalink: /publications/
 background: /assets/theme/images/uni_stuttgart.jpg

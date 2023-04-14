@@ -1,7 +1,7 @@
 ---
 layout: team
-title: The Researchers of MBDO
+title: The Researchers
 #description: The researchers of MBDO
 permalink: /team/
-background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
+background: /assets/theme/images/uni_rennes.jpg
 ---
