@@ -42,6 +42,9 @@
   role: Principal Investigator
   googlescholar: googlescholar_username
   twitter: andwor
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+  image: assets/team/wortmann.jpg
   description: > # Can be Markdown
-    Some description
+    Andreas Wortmann is a professor at the Institute for Control Engineering of Machine Tools and Manufacturing Units (ISW) of Stuttgart University,  
+    He is a board member of the European Association for Programming Languages and Systems and serves on the editorial boards of the Journal of Object Technology and the Journal on Software and Systems Modeling. 
+    His research interests include model-driven engineering, software language engineering, and industry 4.0. 
+    For more information, visit [www.wortmann.ac](http://www.wortmann.ac).
