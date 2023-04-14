@@ -9,4 +9,6 @@ Under construction
 
 ## Peer-Reviewed Publications
 
+## Essays
+
 ## Reports and White Papers
