@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="mbdo-logo.svg"
+   inkscape:export-filename="/home/dvojtise/Documents/Projets (EnCours)/MBDO/logo-search/mbdo-logo-color-set3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.28"
+     inkscape:cx="202.34375"
+     inkscape:cy="64.0625"
+     inkscape:window-width="1699"
+     inkscape:window-height="1007"
+     inkscape:window-x="670"
+     inkscape:window-y="161"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient147969">
+      <stop
+         style="stop-color:#1d4e89;stop-opacity:1;"
+         offset="0"
+         id="stop147965" />
+      <stop
+         style="stop-color:#1d4e89;stop-opacity:0;"
+         offset="1"
+         id="stop147967" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient147969"
+       id="linearGradient147971"
+       x1="200.72163"
+       y1="100.67823"
+       x2="213.1226"
+       y2="100.60182"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.69378302,0,0,1.2884254,-358.01201,-44.087006)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#fbd1a2;fill-opacity:1;stroke:#000000;stroke-width:1.22354px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 248.48982,215.33701 -67.20504,1.14194 c 0,0 -48.63239,-89.9749 -56.97538,-104.99745 C 117.30823,98.875062 110.33073,89.002011 99.526854,84.017199 87.039719,78.255745 58.919302,83.808594 58.919302,83.808594 c 0,0 44.898548,-19.673535 62.645818,-4.083121 15.24029,13.388115 70.24512,114.002697 70.24512,114.002697 l 46.16619,1.97422 z"
+       id="path869"
+       sodipodi:nodetypes="ccsscsccc" />
+    <path
+       style="fill:#7dcfb6;fill-opacity:1;stroke:#000000;stroke-width:1.22354px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 135.59669,152.74334 12.7717,21.05844 c 0,0 -13.332,35.28057 -24.32528,41.73698 -22.20386,13.04046 -51.97684,9.9227 -73.728086,-4.01461 C 29.46921,198.16699 15.65735,162.19856 13.161618,149.11754 10.665886,136.03653 4.7476821,73.682704 40.472407,56.29216 19.999662,84.571032 19.894676,106.98153 27.859547,115.24168 36.423032,124.12263 43.218454,89.978076 49.19403,89.166387 l -7.321125,21.093383 c 0,0 -6.318975,19.24851 -6.313398,35.71346 0.0061,18.31332 10.843452,38.1949 25.20484,47.38987 14.641501,9.3743 35.932835,9.61273 50.787193,0.65492 11.01445,-6.64219 24.04515,-41.27468 24.04515,-41.27468 z"
+       id="path904"
+       sodipodi:nodetypes="ccsszcsccsssc" />
+    <path
+       style="fill:#00b2ca;fill-opacity:1;stroke:#000000;stroke-width:1.22354px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 171.97188,134.7996 -13.14414,-24.01464 21.69163,-35.98171 74.47294,1.168272 37.08143,71.468358 -33.28842,62.51601 -13.05167,-19.97394 23.52383,-44.14647 -26.144,-50.274888 -50.3517,0.366038 z"
+       id="path939" />
+    <path
+       style="fill:#f79256;fill-opacity:1;stroke:#000000;stroke-width:1.22354px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 94.545748,186.62613 C 121.91197,184.06542 125.56334,132.8673 125.56334,132.8673 l 5.55681,10.48646 c 0,0 -14.68789,53.72272 -36.574402,43.27237 z"
+       id="path3363"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#f79256;fill-opacity:1;stroke:#000000;stroke-width:1.22354px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 146.78081,95.206619 27.8294,-28.596779 14.08737,-6.678123 18.89376,-1.198252 -17.85657,4.230389 -12.03548,8.867064 -24.50864,30.902342 z"
+       id="path3611"
+       sodipodi:nodetypes="cccccccc" />
+    <ellipse
+       style="fill:#7dcfb6;fill-opacity:1;stroke:#000000;stroke-width:0.918218;stroke-linecap:round;stroke-opacity:1"
+       id="path9528"
+       cx="63.231491"
+       cy="65.71801"
+       rx="3.7628114"
+       ry="10.172455"
+       transform="matrix(0.84505886,0.53467329,-0.3003774,0.95382043,0,0)" />
+    <path
+       id="path10574"
+       style="fill:#1d4e89;fill-opacity:1;stroke:#000000;stroke-width:0.927262px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 247.37305 75.523438 L 219.4043 75.546875 L 219.35938 95.794922 L 236.20312 95.15625 C 243.11414 95.560206 248.64796 99.128074 251.45508 104.76953 L 256.95703 114.64258 L 257.73242 120.68945 L 246.58398 143.43555 L 250.17188 145.90234 L 249.26758 147.15234 C 249.26758 147.15234 244.32638 147.28755 242.54492 148.60547 C 240.76344 149.92337 239.26562 154.19922 239.26562 154.19922 L 231.70508 157.39648 L 233.26367 175.36133 L 235.12305 161.20117 L 239.57812 159.4082 L 242.80469 164.26953 L 247.87891 165.98828 L 247.84766 170.92969 L 235.48047 177.86523 L 251.52344 173.75781 L 252.54102 165.34961 C 252.54102 165.34961 255.76622 161.86073 256.19531 159.14844 C 256.62442 156.43617 254.30469 150.18945 254.30469 150.18945 L 255.57031 148.66992 L 258.38086 149.81445 L 269.0957 127.4668 C 269.0957 127.4668 271.6903 126.15498 273.33984 122.69531 C 274.98939 119.23563 275.73435 112.84996 273.41797 109.43164 C 271.10156 106.01333 265.86719 104.38281 265.86719 104.38281 C 259.18847 89.004141 262.5324 79.758163 247.37305 75.523438 z M 247.41016 150.76367 A 4.3798079 5.6157098 0 0 1 251.78906 156.37891 A 4.3798079 5.6157098 0 0 1 247.41016 161.99414 A 4.3798079 5.6157098 0 0 1 243.0293 156.37891 A 4.3798079 5.6157098 0 0 1 247.41016 150.76367 z " />
+    <ellipse
+       style="fill:#00b2ca;fill-opacity:1;stroke:#000000;stroke-width:0.978832;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path15799"
+       cx="251.17896"
+       cy="87.999413"
+       rx="4.3798079"
+       ry="5.6157098" />
+    <ellipse
+       style="fill:#00b2ca;fill-opacity:1;stroke:#000000;stroke-width:0.978832;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path15799-8"
+       cx="265.90305"
+       cy="116.23916"
+       rx="4.3798079"
+       ry="5.6157098" />
+    <rect
+       style="fill:url(#linearGradient147971);fill-opacity:1;stroke:none;stroke-width:0.756365;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect147851"
+       width="10.058536"
+       height="19.12188"
+       x="-220.10506"
+       y="76.004227"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/dvojtise/Documents/Projets (EnCours)/MBDO/logo-search/mbdo-logo-color-set3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
