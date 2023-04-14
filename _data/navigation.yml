@@ -10,14 +10,18 @@
   href: /team/
 #- text: Activities
 #  href: /blog/
-- text: Results
-  menu: # Dropdown menu (one level deep only)
-  - text: Publications
-    href: /publications/
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: Software
-    href: /software/
-  - href: /docs/markdown/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
+- text: Publications
+  href: /publications/
+- text: Software
+  href: /software/
+# - text: Results
+#   menu: # Dropdown menu (one level deep only)
+#   - text: Publications
+#     href: /publications/
+#   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+#   - text: Software
+#     href: /software/
+#   - href: /docs/markdown/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
 - text: GitLab
   href: TODO
   new_window: true
