@@ -8,8 +8,8 @@
   href: /objectives/
 - text: Team
   href: /team/
-- text: Activities
-  href: /blog/
+#- text: Activities
+#  href: /blog/
 - text: Results
   menu: # Dropdown menu (one level deep only)
   - text: Publications
