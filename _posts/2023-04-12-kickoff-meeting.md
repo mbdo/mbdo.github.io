@@ -8,7 +8,6 @@ background:
   href: https://unsplash.com/photos/XA1pHcB5AMA
 author: [Philip J. Fry, Turanga Leela]
 tags: [Meetings]
-future: true
 --- 
 
 TODO
