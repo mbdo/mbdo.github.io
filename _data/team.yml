@@ -34,9 +34,14 @@
   role: Principal Investigator
   googlescholar: googlescholar_username
   twitter: bernhard_rumpe
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+  image: assets/team/Bernhard.Rumpe.jpeg
   description: > # Can be Markdown
-    Some description
+    Bernhard Rumpe is the Software Engineering chair at RWTH
+    Aachen University and Editor-In-Chief of the SoSyM Journal.
+    many more. He is co-author of several books like "Agile
+    Modeling with the UML" and "Engineering Modeling Languages: Turning
+    Domain Knowledge into Tools".
+    For more information, visit [www.se-rwth.de](https://www.se-rwth.de/publications/)
 
 - name: Prof. Dr. Andreas Wortmann
   role: Principal Investigator
