@@ -58,3 +58,16 @@
     He is a board member of the European Association for Programming Languages and Systems and serves on the editorial boards of the Journal of Object Technology and the Journal on Software and Systems Modeling. 
     His research interests include model-driven engineering, software language engineering, and industry 4.0. 
     For more information, visit [www.wortmann.ac](http://www.wortmann.ac).
+
+- name: Dr. Florian Rademacher
+  role: Researcher
+  googlescholar: m289JsUAAAAJ
+  image: assets/team/rademacher.jpg
+  description: > # Can be Markdown
+    Florian Rademacher is a postdoctoral researcher at the Chair of Software
+    Engineering at RWTH Aachen University. He completed his doctoral studies
+    in October 2022 with a dissertation about the model-driven engineering of
+    microservice architectures. His research interests revolve around
+    model-driven engineering and software language engineering, and the
+    intersection of these fields with the design, development, and operation of
+    distributed and scalable software architectures.
