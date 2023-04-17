@@ -72,12 +72,12 @@
     intersection of these fields with the design, development, and operation of
     distributed and scalable software architectures.
 
- - name: Jingxi Zhang
-   role: Researcher 
-   image: assets/team/zhang.png # Can be external link
-   description: > # Can be Markdown
-     Jingxi Zhang is a PhD student at the Institute for Control Engineering of Machine Tools 
-     and Manufacturing Units (ISW) of University of Stuttgart.
-     He earned his master's degree in Software Engineering at University of Stuttgart.
-     His research interests focus on the topics of model-driven engineering, digital twins, 
-     visualization techniques and artificial intelligence. 
+- name: Jingxi Zhang
+  role: Researcher 
+  image: assets/team/zhang.png # Can be external link
+  description: > # Can be Markdown
+    Jingxi Zhang is a PhD student at the Institute for Control Engineering of Machine Tools 
+    and Manufacturing Units (ISW) of University of Stuttgart.
+    He earned his master's degree in Software Engineering at University of Stuttgart.
+    His research interests focus on the topics of model-driven engineering, digital twins, 
+    visualization techniques and artificial intelligence. 
