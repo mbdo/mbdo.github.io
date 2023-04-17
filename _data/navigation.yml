@@ -22,6 +22,3 @@
 #   - text: Software
 #     href: /software/
 #   - href: /docs/markdown/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
-- text: GitLab
-  href: TODO
-  new_window: true
