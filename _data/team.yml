@@ -16,7 +16,7 @@
 
 - name: Prof. Benoit Combemale, PhD
   role: Principal Investigator
-  googlescholar: googlescholar_username
+  googlescholar: VCAbjVYAAAAJ
   twitter: bcombemale
   image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
   description: > # Can be Markdown
@@ -26,7 +26,7 @@
   role: Principal Investigator
   googlescholar: googlescholar_username
   twitter: jmjezquel
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+  image: assets/team/combemale.jpg
   description: > # Can be Markdown
     Some description
 
