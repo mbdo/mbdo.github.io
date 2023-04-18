@@ -14,15 +14,20 @@
 #   email: name@example.com
 
 
-- name: Prof. Benoit Combemale, PhD
+- name: Prof. Dr. Benoit Combemale
   role: Principal Investigator
   googlescholar: VCAbjVYAAAAJ
   twitter: bcombemale
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+  image: assets/team/combemale.jpg
   description: > # Can be Markdown
-    Some description
+     Benoit Combemale is Full Professor of Software Engineering at the University of Rennes, France. 
+     He is evolving within the engineering school ESIR, and co-head of the research team DiverSE, joint to the IRISA and Inria labs. 
+     He is also adjunct researcher in the SM@RT team of the IRIT labs. 
+     Prof. Combemale is Editor-In-Chief of the SoSyM Journal. 
+     His research interest lies in software engineering, including model driven software and systems engineering (MDE), software language engineering (SLE) and software validation & verification (V&V).
+     For more information, visit [combemale.fr](https://people.irisa.fr/Benoit.Combemale). 
 
-- name: Prof. Jean-Marc Jézéquel, PhD
+- name: Prof. Dr. Jean-Marc Jézéquel
   role: Principal Investigator
   googlescholar: googlescholar_username
   twitter: jmjezquel
@@ -38,7 +43,7 @@
   description: > # Can be Markdown
     Bernhard Rumpe is the Software Engineering chair at RWTH
     Aachen University and Editor-In-Chief of the SoSyM Journal.
-    many more. He is co-author of several books like "Agile
+    He is co-author of several books like "Agile
     Modeling with the UML" and "Engineering Modeling Languages: Turning
     Domain Knowledge into Tools". He is deeply involved with the language workbench MontiCore.
     For more information, visit [www.se-rwth.de](https://www.se-rwth.de/publications/)
