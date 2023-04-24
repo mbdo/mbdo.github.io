@@ -15,9 +15,12 @@ columns:
       href: https://www.univ-rennes.fr/
       new_window: true
 
-  - description: > # E.g. funding acknowledgement. Can be Markdown
-      TODO: Funding agency FKZ
+  - description:
     links:
+    - text: funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) - 505496753  
+      Förderkennzeichen(GZ) DFG WO 2263/3-1
+      href: https://www.dfg.de/
+      new_window: true
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
