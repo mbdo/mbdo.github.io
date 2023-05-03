@@ -2,7 +2,7 @@
 layout: home
 title: The Project
 #description: (MBDO)
-background: /assets/theme/images/uni_rennes.jpg
+background: /assets/theme/images/uni_rennes-1.jpg
 permalink: /
 ---
 
