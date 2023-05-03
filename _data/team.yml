@@ -86,3 +86,11 @@
     He earned his master's degree in Software Engineering at University of Stuttgart.
     His research interests focus on the topics of model-driven engineering, digital twins,
     visualization techniques and artificial intelligence.
+
+- name: Didier Vojtisek
+  role: Researcher
+  image: assets/team/didier.vojtisek.jpg
+  description: > # Can be Markdown
+    Didier is a Research Engineer at the French National Institute for Research in Computer Science and Control [INRIA](http://www.inria.fr/).
+    He assist the research teams in the development of their software. More specifically, he has a strong background in the development and industrialization of software for Model Driven Engineering and Software Language Engineering.    
+    For more information, visit [people.rennes.inria.fr/Didier.Vojtisek](http://people.rennes.inria.fr/Didier.Vojtisek/)
