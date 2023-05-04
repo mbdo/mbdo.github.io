@@ -95,3 +95,15 @@
     Didier is a Research Engineer at the French National Institute for Research in Computer Science and Control [INRIA](http://www.inria.fr/).
     He assist the research teams in the development of their software. More specifically, he has a strong background in the development and industrialization of software for Model Driven Engineering and Software Language Engineering.    
     For more information, visit [people.rennes.inria.fr/Didier.Vojtisek](http://people.rennes.inria.fr/Didier.Vojtisek/)
+
+- name: Dr. Quentin Perez
+  role: Researcher
+  googlescholar: xZYkVhsAAAAJ
+  image: assets/team/perez.jpg
+  description: > # Can be Markdown
+    Quentin Perez is a postdoctoral researcher at the University of Rennes. 
+    He completed his doctoral studies in December 2021 with a dissertation about software metrics, 
+    empirical software engineering and AI for software architectures. 
+    He works actually on the energy consumption aspects of DevOps pipelines. 
+    His research interests include software architectures, empirical software engineering, 
+    AI for software engineering and software energy consumption.
