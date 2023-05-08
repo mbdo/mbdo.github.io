@@ -110,6 +110,16 @@
     His research interests include software architectures, empirical software engineering, 
     AI for software engineering and software energy consumption.
 
+- name: Nico Jansen
+  role: Researcher
+  image: assets/team/jansen.jpeg
+  description: > # Can be Markdown
+    Nico Jansen is a research assistant and team leader at the 
+    [Chair of Software Engineering](https://www.se-rwth.de) at RWTH Aachen University. 
+    His research interests cover software language engineering, software architectures, 
+    and model-based software and systems engineering
+    For more information, visit [www.se-rwth.de](https://www.se-rwth.de/~jansen)
+
 - name: Dr. Judith Michael
   role: Researcher
   googlescholar: 9f-nXdcAAAAJ
