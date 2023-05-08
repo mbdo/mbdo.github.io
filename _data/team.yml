@@ -109,3 +109,15 @@
     He works actually on the energy consumption aspects of DevOps pipelines. 
     His research interests include software architectures, empirical software engineering, 
     AI for software engineering and software energy consumption.
+
+- name: Dr. Judith Michael
+  role: Researcher
+  googlescholar: 9f-nXdcAAAAJ
+  image: assets/team/michael.jpg
+  description: > # Can be Markdown
+    Judith Michael is a postdoctoral researcher and team leader at the Chair of
+    Software Engineering at RWTH Aachen University. She received her Ph.D. from 
+    Alpen-Adria-Universität Klagenfurt (Austria) in 2014.
+    Her research interests include software language engineering, 
+    the engineering of digital twins, and model-based methods for 
+    information and assistive services.
