@@ -133,3 +133,11 @@
     the engineering of digital twins, and model-based methods for 
     information and assistive services.
     For more information, visit [www.se-rwth.de](https://www.se-rwth.de/~michael)
+
+- name: Lina Bilal
+  role: Researcher
+  image: assets/team/bilal.png
+  description: > # Can be Markdown
+    Lina Bilal is a PhD student at the University of Rennes.
+    She earned her Engineering degree in Computer Science at Ecole Nationale Des Sciences Appliquées d'Oujda(Morocco), followed by a Master's degree in Software Engineering at Aix-Marseille University.
+    Her research interests focus on the topics of model-based DevOps, model-driven engineering and digital twins.
