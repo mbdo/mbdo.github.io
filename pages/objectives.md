@@ -5,8 +5,6 @@ permalink: /objectives/
 background: /assets/theme/images/uni_stuttgart.jpg
 ---
 
-Under construction
-
 ## Work Packages
 
 <img src="/assets/images/work_packages.png" width="75%">
