@@ -5,7 +5,7 @@ permalink: /software/
 background: /assets/theme/images/rwth_aachen.jpg
 ---
 
-Under construction
+Here we provide artifacts created during the course of the project.
 
 ## Software
 
