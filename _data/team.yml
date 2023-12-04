@@ -66,19 +66,6 @@
     His research interests include model-driven engineering, software language engineering, and industry 4.0. 
     For more information, visit [www.wortmann.ac](http://www.wortmann.ac).
 
-- name: Dr. Florian Rademacher
-  role: Researcher
-  googlescholar: m289JsUAAAAJ
-  image: assets/team/rademacher.jpg
-  description: > # Can be Markdown
-    Florian Rademacher is a postdoctoral researcher at the Chair of Software
-    Engineering at RWTH Aachen University. He completed his doctoral studies
-    in October 2022 with a dissertation about the model-driven engineering of
-    microservice architectures. His research interests revolve around
-    model-driven engineering and software language engineering, and the
-    intersection of these fields with the design, development, and operation of
-    distributed and scalable software architectures.
-
 - name: Jingxi Zhang
   role: Researcher
   image: assets/team/zhang.png
@@ -141,3 +128,13 @@
     Lina Bilal is a PhD student at the University of Rennes.
     She earned her Engineering degree in Computer Science at Ecole Nationale Des Sciences Appliquées d'Oujda(Morocco), followed by a Master's degree in Software Engineering at Aix-Marseille University.
     Her research interests focus on the topics of model-based DevOps, model-driven engineering and digital twins.
+
+- name: Alexander Hellwig
+  role: Researcher
+  image: assets/team/hellwig.jpeg
+  description: > # Can be Markdown
+    Alexander Hellwig is a PhD student at the Chair of Software
+    Engineering at RWTH Aachen University,
+    where he also earned his master's degree in computer science.
+    His research interests include model-driven software engineering, digital twins, and
+    software language engineering.
