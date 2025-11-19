@@ -21,7 +21,7 @@ background: /assets/theme/images/uni_stuttgart.jpg
 In: ICSE ’25: ACM/IEEE 47th International Conference on Software Engineering. Companion Proceedings, ACM, 2025. preprint. 
 
 * [PZC+25] J. Pfeiffer, J. Zhang, B. Combemale, J. Michael, B. Rumpe, M. Wimmer, A. Wortmann:  
-[Towards a Unifying Reference Model for Digital Twins of Cyber-Physical Systems](https://judithmichael.github.io/publications/). In: Int. Conf. on Emerging Technologies and Factory Automation (ETFA’25), IEEE, Sep. 2025. 
+[Towards a Unifying Reference Model for Digital Twins of Cyber-Physical Systems](https://arxiv.org/abs/2507.04871). In: Int. Conf. on Emerging Technologies and Factory Automation (ETFA’25), IEEE, Sep. 2025. 
 
 * [MCZ+25] Judith Michael, Loek Cleophas, Steffen Zschaler, Tony Clark, Benoit Combemale, Thomas Godfrey, Djamel Eddine Khelladi, Vinay Kulkarni, Daniel Lehner, Bernhard Rumpe, and others:  
 [Model‐Driven Engineering for Digital Twins: Opportunities and Challenges](https://incose.onlinelibrary.wiley.com/doi/full/10.1002/sys.21815). In Systems Engineering, Wiley Online Library,  2025. 
@@ -30,7 +30,7 @@ In: ICSE ’25: ACM/IEEE 47th International Conference on Software Engineering. 
 [Digital Twin and the Asset Administration Shell: An Analysis of 3 AASs Types and their Feasibility for Digital Twin Engineering](https://judithmichael.github.io/downloads/preprints/ZEH+25_SoSyM_DigitalTwin_and_the_AssetAdministrationShell.pdf). In: Journal Software and Systems Modeling (SoSyM), Springer, 2025. DOI: 10.1007/s10270-024-01255-0
 
 * [HJM+24] M. Heithoff, N. Jansen, J. Michael, F. Rademacher, B. Rumpe:  
-[Model-Based Engineering of Multi-Purpose Digital Twins in Manufacturing](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.se-rwth.de/publications/Model-Based-Engineering-of-Multi-Purpose-Digital-Twins-in-Manufacturing.pdf&ved=2ahUKEwjm1PbQ2rePAxUX8wIHHZ9jIeYQFnoECBcQAQ&usg=AOvVaw3ywGC0bU_x8cWAfKYznjtw). In: Digital Twin: Fundamentals and Applications, S. Sabri, K. Alexandridis, N. Lee (Eds.), pp. 89-126, ISBN 978-3-031-67778-6, DOI 10.1007/978-3-031-67778-6_5, Springer Nature Switzerland, Cham, Dec. 2024.
+[Model-Based Engineering of Multi-Purpose Digital Twins in Manufacturing](https://www.se-rwth.de/publications/Model-Based-Engineering-of-Multi-Purpose-Digital-Twins-in-Manufacturing.pdf). In: Digital Twin: Fundamentals and Applications, S. Sabri, K. Alexandridis, N. Lee (Eds.), pp. 89-126, ISBN 978-3-031-67778-6, DOI 10.1007/978-3-031-67778-6_5, Springer Nature Switzerland, Cham, Dec. 2024.
 
 * [BBM+24] F. Bonetti, A. Bucchiarone, J. Michael, A. Cicchetti, A. Marconi, B. Rumpe: [Digital Twins of Socio-Technical Ecosystems to Drive Societal Change](https://www.se-rwth.de/publications/Digital-Twins-of-Socio-Technical-Ecosystems-to-Drive-Societal-Change.pdf). In: System Analysis and Modelling Conference, MODELS Companion ’24: International Conference on Model Driven Engineering Languages and Systems (SAM), pp. 275-286, DOI 10.1145/3652620.3686248, Association for Computing Machinery (ACM), Oct. 2024.
 
