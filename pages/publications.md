@@ -12,6 +12,10 @@ background: /assets/theme/images/uni_stuttgart.jpg
 [Digital Twins for Machine Tools: A Systematic Mapping Study](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Digital_Twins_for_Machine_Tools_-_A_Systematic_Mapping_Study.pdf). In Digital Twin. preprint.
 
 <!-- TODO: preprint, In -->
+* [HMP+25] A Hellwig, J Michael, J Pfeiffer, B Rumpe, H Thillmann, A Wortmann:
+[Digital Twins in Manufacturing and the Use of Models](https://judithmichael.github.io/downloads/preprints/25.10.22.ER_Forum-DT_TypesOfModels.pdf). preprint
+
+<!-- TODO: preprint, In -->
 * [HMR+25] Malte Heithoff, Judith Michael, Bernhard Rumpe, Jérôme Pfeiffer, Andreas Wortmann, Jingxi Zhang:  
 [A Method for Model-Driven Engineering of Digital Twins in Manufacturing](https://epub.uni-regensburg.de/77255/1/25_MODELS_DT_Method-2.pdf). preprint.
 
@@ -19,6 +23,9 @@ background: /assets/theme/images/uni_stuttgart.jpg
 * [KMWZ25] R. Kimmel, J. Michael, A. Wortmann, J. Zhang:   
 [Digital Twins for Software Engineering Processes](https://judithmichael.github.io/downloads/preprints/KMWZ25_ICSE_Nier_SoftwareEngineeringProcess_DTs.pdf).
 In: ICSE ’25: ACM/IEEE 47th International Conference on Software Engineering. Companion Proceedings, ACM, 2025. preprint. 
+
+* [CKM+25] B. Combemale, J. Kienzle, G. Mussbacher, P. Archambault, J. Bruel, L. Burgueno, B.H.C. Cheng, L. Cleophas, G. Engels, D. Foures, S. Klikovits, V. Kulkarni, J. Michael, S. Mosser, H. Sahraoui, E. Syriani, A. Wortmann:
+[On the Challenges of Integrating Digital Twins](https://www.researchgate.net/publication/394848066_On_the_Challenges_of_Integrating_Digital_Twins). In: Int. Conf. on Engineering Digital TwinsAt (EDTConf’25), ACM, Oct 2025.
 
 * [PZC+25] J. Pfeiffer, J. Zhang, B. Combemale, J. Michael, B. Rumpe, M. Wimmer, A. Wortmann:  
 [Towards a Unifying Reference Model for Digital Twins of Cyber-Physical Systems](https://arxiv.org/abs/2507.04871). In: Int. Conf. on Emerging Technologies and Factory Automation (ETFA’25), IEEE, Sep. 2025. 
@@ -29,8 +36,14 @@ In: ICSE ’25: ACM/IEEE 47th International Conference on Software Engineering. 
 * [ZEH+25] J. Zhang, C. Ellwein, M. Heithoff, J. Michael, A. Wortmann:  
 [Digital Twin and the Asset Administration Shell: An Analysis of 3 AASs Types and their Feasibility for Digital Twin Engineering](https://judithmichael.github.io/downloads/preprints/ZEH+25_SoSyM_DigitalTwin_and_the_AssetAdministrationShell.pdf). In: Journal Software and Systems Modeling (SoSyM), Springer, 2025. DOI: 10.1007/s10270-024-01255-0
 
+* [LZP+25] D Lehner, J Zhang, J Pfeiffer, S Sint, AK Splettstößer, M Wimmer, A Wortmann:
+[Model-driven engineering for digital twins: a systematic mapping study](https://link.springer.com/article/10.1007/s10270-025-01264-7). In: Journal Software and Systems Modeling (SoSyM), Springer, 2025. DOI: 11007/s10270-025-01264-7
+
 * [HJM+24] M. Heithoff, N. Jansen, J. Michael, F. Rademacher, B. Rumpe:  
 [Model-Based Engineering of Multi-Purpose Digital Twins in Manufacturing](https://www.se-rwth.de/publications/Model-Based-Engineering-of-Multi-Purpose-Digital-Twins-in-Manufacturing.pdf). In: Digital Twin: Fundamentals and Applications, S. Sabri, K. Alexandridis, N. Lee (Eds.), pp. 89-126, ISBN 978-3-031-67778-6, DOI 10.1007/978-3-031-67778-6_5, Springer Nature Switzerland, Cham, Dec. 2024.
+
+* [PFK+24] J. Pfeiffer, D. Fuchß, T. Kühn, R. Liebhart, D. Neumann, C. Neimöck, C. Seiler, A. Koziolek, A. Wortmann: 
+[Modeling Languages for Automotive Digital Twins: A Survey Among the German Automotive Industry](https://dl.acm.org/doi/abs/10.1145/3640310.3674100). In: International Conference on Model Driven Engineering Languages and Systems (MODELS'24), DOI: 10.1145/3640310.3674100, ACM/IEEE, Oct. 2024.
 
 * [BBM+24] F. Bonetti, A. Bucchiarone, J. Michael, A. Cicchetti, A. Marconi, B. Rumpe: [Digital Twins of Socio-Technical Ecosystems to Drive Societal Change](https://www.se-rwth.de/publications/Digital-Twins-of-Socio-Technical-Ecosystems-to-Drive-Societal-Change.pdf). In: System Analysis and Modelling Conference, MODELS Companion ’24: International Conference on Model Driven Engineering Languages and Systems (SAM), pp. 275-286, DOI 10.1145/3652620.3686248, Association for Computing Machinery (ACM), Oct. 2024.
 
