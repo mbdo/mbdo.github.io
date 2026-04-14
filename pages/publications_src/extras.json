@@ -17,7 +17,7 @@
     "venue": "preprint",
     "url": "https://judithmichael.github.io/downloads/preprints/25.10.22.ER_Forum-DT_TypesOfModels.pdf",
     "doi": "",
-    "abstract": "",
+    "abstract": "While models and digital twins are heavily related, how we use these models, how we understand those models, and even what these models represent for digital twins might change over time. Existing research provides model classifications from different angles, e.g., kind of usage, model content, nature of abstraction; however, a common understanding of which kinds of models could be useful and are used in digital twin engineering and during its lifetime is missing. In this work, we present an initial faceted classification to label models based on different properties relevant for digital twins in manufacturing. We show the application of the classification on different models of a digital twin in manufacturing. The classification can make finding and reusing models in and for digital twins easier, help to identify information gaps, and give inspiration about how models might change their purpose and nature over time.",
     "image": "",
     "cite": ""
   },
@@ -28,7 +28,7 @@
     "venue": "preprint",
     "url": "https://epub.uni-regensburg.de/77255/1/25_MODELS_DT_Method-2.pdf",
     "doi": "",
-    "abstract": "",
+    "abstract": "Several software architectures for digital twins have been proposed, specifying their structure and key components, such as the ISO 23247 standard for manufacturing. However, systematic methodologies for developing digital twins in the manufacturing domain remain lacking. Existing research does not adequately address methodological aspects, such as composing essential digital twin components, defining their interfaces, and systematically analyzing relevant data. This gap presents a challenge for the structured development of digital twins. In this work, we introduce a systematic approach to identify key requirements for manufacturing digital twins and propose a model-driven method for their creation. Our approach enables the generation of executable digital twins based on a formalized specification. We demonstrate its applicability through multiple industrial manufacturing demonstrators, highlighting its suitability in practice. The proposed method is adaptable regarding the purpose of the digital twins to be developed and supports a largely automated process.",
     "image": "",
     "cite": ""
   },
@@ -39,7 +39,7 @@
     "venue": "ICSE ’25: ACM/IEEE 47th International Conference on Software Engineering. Companion Proceedings, ACM, 2025. preprint",
     "url": "https://judithmichael.github.io/downloads/preprints/KMWZ25_ICSE_Nier_SoftwareEngineeringProcess_DTs.pdf",
     "doi": "",
-    "abstract": "",
+    "abstract": "Digital twins promise a better understanding and use of complex systems. To this end, they represent these systems at their runtime and may interact with them to control their processes. Software engineering is a wicked challenge in which stakeholders from many domains collaborate to produce software artifacts together. In the presence of skilled software engineer shortage, our vision is to leverage DTs as means for better representing, understanding, and optimizing software engineering processes to (i) enable software experts making the best use of their time and (ii) support domain experts in producing high-quality software. This paper outlines why this would be beneficial, what such a digital twin could look like, and what is missing for realizing and deploying software engineering digital twins.",
     "image": "",
     "cite": ""
   },
@@ -50,7 +50,7 @@
     "venue": "Int. Conf. on Engineering Digital TwinsAt (EDTConf’25), ACM, Oct 2025",
     "url": "https://www.researchgate.net/publication/394848066_On_the_Challenges_of_Integrating_Digital_Twins",
     "doi": "",
-    "abstract": "",
+    "abstract": "Digital Twins (DTs) are a key technology for smart ecosystems to provide accurate digital representation of their constituents, e.g., smart buildings, farms, transportation, and citizens, as well as synchronization between the digital and the real subject, and the exploration of what-if scenarios and trade-off reasoning. To cope with emerging complex socio-technical ecosystems, we need to bring DTs together, which is a challenging endeavor. After giving a historical overview of system adaptation, we review the many enabling technologies that can help with DT integration. Using a smart city as an illuminating example to highlight scenarios that require integration of DTs, we discuss a model-based conceptual framework that identifies DT integration strategies and elaborate on nine key integration challenges that still need to be addressed. We call on the DT community to investigate these challenges.",
     "image": "",
     "cite": ""
   },
@@ -61,7 +61,7 @@
     "venue": "Int. Conf. on Emerging Technologies and Factory Automation (ETFA’25), IEEE, Sep. 2025",
     "url": "https://arxiv.org/abs/2507.04871",
     "doi": "",
-    "abstract": "",
+    "abstract": "Digital twins are sophisticated software systems for the representation, monitoring, and control of cyber-physical systems, including automotive, avionics, smart manufacturing, and many more. Existing definitions and reference models of digital twins are overly abstract, impeding their comprehensive understanding and implementation guidance. Consequently, a significant gap emerges between abstract concepts and their industrial implementations. We analyze popular reference models for digital twins and combine these into a significantly detailed unifying reference model for digital twins that reduces the concept-implementation gap to facilitate their engineering in industrial practice. This enhances the understanding of the concepts of digital twins and their relationships and guides developers to implement digital twins effectively.",
     "image": "",
     "cite": ""
   },
@@ -72,7 +72,7 @@
     "venue": "In Systems Engineering, Wiley Online Library, 2025",
     "url": "https://incose.onlinelibrary.wiley.com/doi/full/10.1002/sys.21815",
     "doi": "",
-    "abstract": "",
+    "abstract": "Digital twins are increasingly used across a wide range of industries. Modeling is a key to digital twin development—both when considering the models which a digital twin maintains of its real-world complement (“models in digital twin”) and when considering models of the digital twin as a complex (software) system itself. Thus, systematic development and maintenance of these models is a key factor in effective and efficient digital twin development, maintenance, and use. We argue that model-driven engineering (MDE), a field with almost three decades of research, will be essential for improving the efficiency and reliability of future digital twin development. To do so, we present an overview of the digital twin life cycle, identifying the different types of models that should be used and re-used at different life cycle stages (including systems engineering models of the actual system, domain-specific simulation models, models of data processing pipelines, etc.). We highlight some approaches in MDE that can help create and manage these models and present a roadmap for research towards MDE of digital twins.",
     "image": "",
     "cite": ""
   },
@@ -83,7 +83,7 @@
     "venue": "Journal Software and Systems Modeling (SoSyM), Springer, 2025",
     "url": "https://judithmichael.github.io/downloads/preprints/ZEH+25_SoSyM_DigitalTwin_and_the_AssetAdministrationShell.pdf",
     "doi": "10.1007/s10270-024-01255-0",
-    "abstract": "",
+    "abstract": "Engineering digital twins is a software and systems engineering challenge for which no systematic approach exists. The Asset Administration Shell is becoming a popular foundation for digital twins in Industry 4.0 and it comes in different types that support the engineering of different kinds and parts of digital twins. We investigate how it supports realizing common requirements for digital twins. To this end, we investigate how each of the three Asset Administration Shell types can contribute to the systematic engineering of specific components of digital twins. Therefore, we analyzed popular definitions and conceptual models of digital twins and extracted requirements that at least two of them share. We compare the resulting requirements with Asset Administration Shells of different types and conclude with open challenges in the implementation of digital twins with this technology. This supports practitioners and researchers in identifying the most suitable type of Asset Administration Shell for their specific digital twin engineering needs and identifies gaps worthy of future research toward a systematic engineering of digital twins.",
     "image": "",
     "cite": ""
   },
@@ -94,7 +94,7 @@
     "venue": "Journal Software and Systems Modeling (SoSyM), Springer, 2025",
     "url": "https://link.springer.com/article/10.1007/s10270-025-01264-7",
     "doi": "11007/s10270-025-01264-7",
-    "abstract": "",
+    "abstract": "Digital twins (DTs) are proliferating in a multitude of domains, including agriculture, automotive, avionics, logistics, manufacturing, medicine, smart homes, etc. As domain experts and software experts both have to contribute to the engineering of effective DTs, several model-driven engineering (MDE) approaches have been recently proposed to ease the design, development, and operation of DTs. However, the diversity of domains in which MDE is currently applied to DTs, as well as the diverse landscape of DTs and MDE applications to DTs, makes it challenging for researchers and practitioners to get an overview of what techniques and artifacts are already applied in this context. In this paper, we shed light on the aforementioned aspects by performing a systematic mapping study on the application of MDE automation techniques, i.e., model-to-model transformation, code generation, and model interpretation, in the context of DTs as well as on the characteristics of DTs including the twinned systems to which these techniques are applied in different domains. We systematically retrieved a set of 189 unique publications, of which 66 were selected for further investigation in this paper. Our results indicate that the distribution of employed MDE techniques (136 applications of automation techniques) is balanced between the different techniques, but there are significant variations for different DT types. With respect to the different domains, we found that even though applications are available in many domains, a small number of domains currently dominate applications of MDE to DTs, i.e., more than half of included papers are in the manufacturing and transportation domains.",
     "image": "",
     "cite": ""
   },
@@ -116,7 +116,7 @@
     "venue": "International Conference on Model Driven Engineering Languages and Systems (MODELS'24), , ACM/IEEE, Oct. 2024",
     "url": "https://dl.acm.org/doi/abs/10.1145/3640310.3674100",
     "doi": "10.1145/3640310.3674100",
-    "abstract": "",
+    "abstract": "The demand for digital twins and suitable modeling techniques in the automotive industry is increasing rapidly. Yet, there is no common understanding of digital twins in automotive, nor are there modeling techniques established to create automotive digital twins. Recent studies on digital twins focus on the analysis of the literature on digital twins for automotive or in general and, thus, neglect the industrial perspective of automotive practitioners. To mitigate this gap between scientific literature and the industrial perspective, we conducted a questionnaire survey among experts in the German automotive industry to identify i) the desired purposes for and capabilities of digital twins and ii) the modeling techniques related to engineering and operating digital twins across the phases of automotive development. To this end, we contacted 189 members of the Software-Defined Car research project and received 96 responses. The results show that digital twins are considered most useful in the usage and support phase of automotive development, representing vehicles as-operated. Moreover, simulation models, source code, and business process models are currently considered the most important models to be integrated into a digital twin alongside the associated, established tools.",
     "image": "",
     "cite": ""
   },
@@ -127,7 +127,7 @@
     "venue": "System Analysis and Modelling Conference, MODELS Companion ’24: International Conference on Model Driven Engineering Languages and Systems (SAM), pp. 275-286, , Association for Computing Machinery (ACM), Oct. 2024",
     "url": "https://www.se-rwth.de/publications/Digital-Twins-of-Socio-Technical-Ecosystems-to-Drive-Societal-Change.pdf",
     "doi": "10.1145/3652620.3686248",
-    "abstract": "",
+    "abstract": "While the engineering of digital twins (DTs) of cyber-physical systems already faces a number of challenges, DTs of socio-technical systems are made even more complex by human and social factors, and a comprehensive representation of their internal relations is currently lacking. DTs for socio-technical systems could open up new ways of achieving common societal goals by i) providing an understanding of complex interactions and processes, and by ii) facilitating the design of and participation in collective actions. In this context, dynamic adaptation and motivational strategies would be required to swiftly address sub-optimal system behavior. To enable the model-driven engineering of DTs responding to such requirements, we propose a conceptual model of socio-technical systems and discuss it with use-case scenarios. The presented approach supports our vision of future DT-based model-driven interventions, empowering citizens and stakeholders in driving societal change and increasing community resilience.",
     "image": "",
     "cite": ""
   },
@@ -138,7 +138,7 @@
     "venue": "In 2024 IEEE 29th International Conference on Emerging Technologies and Factory Automation (ETFA), pp. 1–4, 2024",
     "url": "https://awortmann.github.io/downloads/paper/Toward_Automating_the_Composition_of_Digital_Twins_Within_System-of-Systems.pdf",
     "doi": "",
-    "abstract": "",
+    "abstract": "Cyber-Physical Production Systems necessitate efficient configuration and continuous reconfiguration to adapt to evolving requirements and shifting goals. This process involves integrating various system structures to derive new functions and behaviors. The concept of the Digital Twin, which allows for effective integration and testing, is instrumental in facilitating this task. However, a fundamental prerequisite is that Digital Twins of individual system components must be composed efficiently and in accordance with dynamic System-of-Systems. We address this challenge by introducing an approach for the automated horizontal and vertical composition of Digital Twins, aimed at minimizing manual intervention and enhancing adaptability. Therefore, a pipeline specifically designed for this goal is proposed, which includes the generation of new functions and behaviors. This approach is intended to provide a foundation for future research.",
     "image": "",
     "cite": ""
   },
@@ -149,7 +149,7 @@
     "venue": "In 2024 50th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), pp. 56–63, 2024",
     "url": "https://awortmann.github.io/downloads/paper/Hierarchical_Digital_Twin_Ecosystem_for_Industrial_Manufacturing_Scenarios.pdf",
     "doi": "",
-    "abstract": "",
+    "abstract": "Modern industrial systems, characterised by distributed and fragmented equipment, present challenges due to their inherent heterogeneity and complexity. This should not impact the stakeholders’ business logic, who are more concerned with the information itself rather than how it is collected or processed. Recently, Digital Twins — software copies of physical assets and systems — emerged as a pivotal strategy to bridge the cyber-physical world into an effective digital layer decoupling applications from the management and interaction with physical assets. Fostering this vision, we propose a structured industrial Digital Twins ecosystem exploiting twin relationships and hierarchies to build a digitalised replica of the whole manufacturing system structure enabling a simplified navigation and interaction with the physical world and the data it generates. To support the depicted visions, a fully functioning prototype has been implemented and evaluated in an experimental scenario.",
     "image": "",
     "cite": ""
   },
@@ -160,7 +160,7 @@
     "venue": "Journal of Infrastructure Intelligence and Resilience, Volume 3(3), , Elsevier, Sep. 2024",
     "url": "http://www.se-rwth.de/publications/Integrating-Models-of-Civil-Structures-in-Digital-Twins-State-of-the-Art-and-Challenges.pdf",
     "doi": "10.1016/j.iintel.2024.100100",
-    "abstract": "",
+    "abstract": "Software systems monitoring civil structures over their lifetime are exposed to the risk of aging much faster than the structures themselves. This risk can be minimized if we use models describing the structure, geometry, processes, interaction, and risk assessment as well as the data collected over the lifetime of a civil structure. They are considered as a unity together with the civil structure. These constitute a digital twin of such a civil structure, which through appropriate operative services remain in permanent use and thus co-evolve with the civil structure even over a long-lasting lifetime. Even though research on digital twins for civil structures has grown over the last few years, digital twin engineering with heterogeneous models and data sources is still challenging. Within this article, we describe models used within all phases of the whole civil structure life cycle. We identify the models from the computer science, civil engineering, mechanical engineering, and business management domains as specifically relevant for this purpose, as they seem to cover all relevant aspects of sustainable civil structures at best and discuss them using a dam as an example. Moreover, we discuss challenges for creating and using models within different scenarios such as improving the sustainability of civil structures, evaluating risks, engineering digital twins, parallel software and object evolution, and changing technologies and software stacks. We show how this holistic view from different perspectives helps overcome challenges and raises new ones. The consideration from these different perspectives enables the long-term software support of civil structures while simultaneously opening up new paths and needs for research on the digitalization of long-lasting structures.",
     "image": "",
     "cite": ""
   },
@@ -171,7 +171,7 @@
     "venue": "IEEE Software, Volume 41(1), pp. 55-63, , IEEE, Jan. 2024",
     "url": "https://www.se-rwth.de/publications/Explaining-Cyberphysical-System-Behavior-with-Digital-Twins.pdf",
     "doi": "10.1109/MS.2023.3319580",
-    "abstract": "",
+    "abstract": "Digital twins are increasingly being used for many purposes in various domains, including manufacturing, healthcare, transportation, and urban planning. To enable all of this, digital twins must be complex software systems that digitally represent and manipulate physical systems. Hence, they are equipped with extensive data, information, and models to reason about the represented system and are used by domain experts from various disciplines. For their proper use, it is vital to comprehend the wealth of data, information, and models intrinsic to them. Therefore, we present a model-driven software architecture of digital twins that combines this wealth with techniques for the self-explainability of software systems to support domain experts in configuring, deploying, operating, and maintaining them.",
     "image": "",
     "cite": ""
   },
@@ -182,7 +182,7 @@
     "venue": "Int. Conf. on Model Driven Engineering Languages and Systems Companion (MODELS-C), pp. 429–433, ACM/IEEE, Oct. 2023",
     "url": "https://www.se-rwth.de/publications/Model-Based-DevOps-Foundations-and-Challenges.pdf",
     "doi": "",
-    "abstract": "",
+    "abstract": "Time-to-market and continuous improvement are key success indicators to deliver for Industry 4.0 Cyber-Physical Systems (CPSs). There is thus a growing interest in adapting DevOps approaches coming from software systems to CPSs. However, CPSs are made not only of software but also of physical parts that need to be monitored at runtime. In this paper, we claim that Model-Driven Engineering can facilitate DevOps for CPSs by automatically connecting a CPS design model to its runtime monitoring, in the form of a digital twin.",
     "image": "",
     "cite": ""
   }
